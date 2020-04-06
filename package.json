@@ -2,6 +2,7 @@
   "name": "coffe",
   "version": "0.0.1",
   "private": true,
+  "description": "Coffe ecommerce app by RN - using Magento backend",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
